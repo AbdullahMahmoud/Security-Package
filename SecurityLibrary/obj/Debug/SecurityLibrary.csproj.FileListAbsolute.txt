@@ -1,0 +1,46 @@
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+E:\year4\sem 2\Security\Startup code\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+E:\year4\sem 2\Security\Startup code\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+E:\year4\sem 2\Security\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+E:\year4\sem 2\Security\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+E:\year4\sem 2\Security\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\Lenovo-PC\Desktop\security-course\Task2\Startup code\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\Lenovo-PC\Desktop\security-course\Task2\Startup code\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\Lenovo-PC\Desktop\security-course\Task2\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-PC\Desktop\security-course\Task2\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\Lenovo-PC\Desktop\security-course\Task2\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\Startup code\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\Startup code\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\Startup code\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\abdal_000\Documents\GitHub\security-course\Task3\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\abdal_000\Documents\GitHub\security-course\Task3\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\abdal_000\Documents\GitHub\security-course\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\abdal_000\Documents\GitHub\security-course\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\abdal_000\Documents\GitHub\security-course\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\Lenovo-PC\Desktop\security-course\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\khorshed\Downloads\security-course-master\Task3\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\khorshed\Downloads\security-course-master\Task3\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\khorshed\Downloads\security-course-master\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\khorshed\Downloads\security-course-master\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\khorshed\Downloads\security-course-master\Task3\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\UPDATE\Documents\VIP\security-course\Task4\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\UPDATE\Documents\VIP\security-course\Task4\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\UPDATE\Documents\VIP\security-course\Task4\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\UPDATE\Documents\VIP\security-course\Task4\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\Documents\VIP\security-course\Task4\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\UPDATE\Documents\VIP\security-course\Task4\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\abdal_000\Documents\GitHub\security-course\Task4\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\abdal_000\Documents\GitHub\security-course\Task4\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\abdal_000\Documents\GitHub\security-course\Task4\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\abdal_000\Documents\GitHub\security-course\Task4\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\abdal_000\Documents\GitHub\security-course\Task4\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
